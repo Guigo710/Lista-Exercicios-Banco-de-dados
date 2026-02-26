@@ -1,5 +1,7 @@
 📚 Lista-Exercicios-Banco-de-dados
+
 🇧🇷 Português
+
 📌 Sobre o Projeto
 
 Este repositório contém exercícios de Banco de Dados com foco em:
@@ -49,6 +51,7 @@ O objetivo deste projeto é praticar e consolidar os seguintes conceitos:
 5. Utilize os arquivos em Word ou PDF para estudo e revisão.
 
    🇺🇸 English
+   
 📌 About the Project
 
 - This repository contains Database exercises focused on:
