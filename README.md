@@ -38,13 +38,15 @@ O objetivo deste projeto é praticar e consolidar os seguintes conceitos:
 
 🚀 Como Utilizar
 
-1. Abra os arquivos do modelo conceitual no BRModelo.
+1. Abra o enunciado do exercício.
+   
+2. Abra os arquivos do modelo conceitual no BRModelo.
 
-2. Analise a conversão para o modelo lógico.
+3. Analise a conversão para o modelo lógico.
 
-3. Consulte o dicionário de dados para entender a estrutura das tabelas.
+4. Consulte o dicionário de dados para entender a estrutura das tabelas.
 
-4. Utilize os arquivos em Word ou PDF para estudo e revisão.
+5. Utilize os arquivos em Word ou PDF para estudo e revisão.
 
    🇺🇸 English
 📌 About the Project
@@ -85,10 +87,12 @@ Creating structured data dictionaries
 
   🚀 How to Use
 
-1. Open the conceptual model files in BRModelo.
+1. Open the exercise description.
 
-2. Review the transformation into the logical model.
+2. Open the conceptual model files in BRModelo.
 
-3. Check the data dictionary to understand table structures.
+3. Review the transformation into the logical model.
 
-4. Use the Word or PDF files for study and revision.
+4. Check the data dictionary to understand table structures.
+
+5. Use the Word or PDF files for study and revision.
